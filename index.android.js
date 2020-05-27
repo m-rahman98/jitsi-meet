@@ -1,2 +1,2 @@
-import './react/index.native';
+//import './react/index.native';
 
